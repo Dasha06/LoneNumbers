@@ -1,0 +1,14 @@
+/home/gara/csharp/progects_not_big/FindOneNumber/obj/Debug/net8.0/FindOneNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/gara/csharp/progects_not_big/FindOneNumber/obj/Debug/net8.0/FindOneNumber.AssemblyInfoInputs.cache
+/home/gara/csharp/progects_not_big/FindOneNumber/obj/Debug/net8.0/FindOneNumber.AssemblyInfo.cs
+/home/gara/csharp/progects_not_big/FindOneNumber/obj/Debug/net8.0/FindOneNumber.csproj.CoreCompileInputs.cache
+/home/gara/csharp/progects_not_big/FindOneNumber/bin/Debug/net8.0/FindOneNumber
+/home/gara/csharp/progects_not_big/FindOneNumber/bin/Debug/net8.0/FindOneNumber.deps.json
+/home/gara/csharp/progects_not_big/FindOneNumber/bin/Debug/net8.0/FindOneNumber.runtimeconfig.json
+/home/gara/csharp/progects_not_big/FindOneNumber/bin/Debug/net8.0/FindOneNumber.dll
+/home/gara/csharp/progects_not_big/FindOneNumber/bin/Debug/net8.0/FindOneNumber.pdb
+/home/gara/csharp/progects_not_big/FindOneNumber/obj/Debug/net8.0/FindOneNumber.dll
+/home/gara/csharp/progects_not_big/FindOneNumber/obj/Debug/net8.0/refint/FindOneNumber.dll
+/home/gara/csharp/progects_not_big/FindOneNumber/obj/Debug/net8.0/FindOneNumber.pdb
+/home/gara/csharp/progects_not_big/FindOneNumber/obj/Debug/net8.0/FindOneNumber.genruntimeconfig.cache
+/home/gara/csharp/progects_not_big/FindOneNumber/obj/Debug/net8.0/ref/FindOneNumber.dll
